@@ -1,0 +1,6 @@
+E:\Projects\WebC#\Lab2_Zozulia\Lab2\bin\Debug\Lab2.exe
+E:\Projects\WebC#\Lab2_Zozulia\Lab2\bin\Debug\Lab2.pdb
+E:\Projects\WebC#\Lab2_Zozulia\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+E:\Projects\WebC#\Lab2_Zozulia\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Projects\WebC#\Lab2_Zozulia\Lab2\obj\Debug\Lab2.exe
+E:\Projects\WebC#\Lab2_Zozulia\Lab2\obj\Debug\Lab2.pdb
